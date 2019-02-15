@@ -54,7 +54,7 @@
         {
             if (string.IsNullOrEmpty(Benutzername))
             {
-                MessageBox.Show("Bitte tragen Sie einen Benutzernamen ein...");
+                MessageBox.Show("Bitte tragen Sie einen Benutzernamen ein -->");
                 return;
             }
 
